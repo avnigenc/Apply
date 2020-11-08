@@ -1,3 +1,3 @@
 # Apply
 Apply to Getir Tech
-Recruiting post created
+Recruiting linkedin cover post created
