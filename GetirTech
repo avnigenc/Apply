@@ -1,0 +1,38 @@
+package developer;
+
+public class Developer {
+
+    public static void main(String[] args) {
+        apply(true);
+    }
+    
+    public static void apply(boolean isPassionateAboutTech) {
+        if (isPassionateAboutTech) {
+            learnEagerly();
+            workWellInATeam();
+            beOpenToNewApproaches();
+            beADoer();
+            contactMe();
+        }
+    }
+
+    private static void learnEagerly() {
+        System.out.println("Learn Eagerly");
+    }
+
+    private static void workWellInATeam() {
+        System.out.println("Work Well In A Team");
+    }
+
+    private static void beOpenToNewApproaches() {
+        System.out.println("Be Open To New Approaches");
+    }
+
+    private static void beADoer() {
+        System.out.println("Be A Doer");
+    }
+
+    private static void contactMe() {
+        System.out.println("Contact Me");
+    }
+}
